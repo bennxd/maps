@@ -1,2 +1,2 @@
 # testrepo
-dunno
+This is a repository readme.
